@@ -52,17 +52,6 @@ dt.predict([[5,6]])
 ```
 <br><br><br>
 ## Output:
-## Data Head
-
-![image](https://github.com/user-attachments/assets/6bcf15d7-f9f4-4863-9b9c-321195ed5cc3)
-
-## Data Info
-
-![image](https://github.com/user-attachments/assets/49df6c3e-bfd3-49dc-94f1-98e095907017)
-<br><br><br><br><br><br><br><br><br>
-## Data Head after applying LabelEncoder():
-
-![image](https://github.com/user-attachments/assets/b7a16346-712b-48de-a17a-33792d339bcd)
 
 ## MSE:
 
