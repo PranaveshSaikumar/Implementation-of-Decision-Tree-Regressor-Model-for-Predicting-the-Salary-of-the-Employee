@@ -25,6 +25,7 @@ step7. Apply metrics to the dataset, and predict the output.
 step8. End.
 
 ## Program:
+```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
@@ -32,7 +33,7 @@ Developed by : Pranavesh Saikumar
 
 RegisterNumber : 212223040149
 */
-```
+
 import pandas as pd
 data = pd.read_csv("Salary.csv")
 data.head()
